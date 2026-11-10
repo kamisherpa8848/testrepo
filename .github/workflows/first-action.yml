@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: Print Hello World
-        run: echo "Hello Sansar"
+        run: echo "Hello World100"
